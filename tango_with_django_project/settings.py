@@ -27,7 +27,7 @@ SECRET_KEY = '4n7b%q4ue%r$vp62*x+5jr+yy4u=f3$*ssxhq%1(n8^es9qwlg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['daniellyasota.pythonanywhere.com']
 
 LOGIN_URL = 'rango:login'
 
